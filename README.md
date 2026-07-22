@@ -1,5 +1,6 @@
 ## Các liên kết hay
-
+## Hướng Dẫn Chống IDM Và Các Tiện Ích Bắt Link Tải Video
+https://trungnhan.name.vn/huong-dan-chong-idm-va-cac-tien-ich-bat-link-tai-video-tren-next-js/
 ## Liên quan đến claude
 https://github.com/anthropics/skills/tree/main/skills/algorithmic-art
 
