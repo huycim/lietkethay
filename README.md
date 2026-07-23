@@ -114,6 +114,24 @@ Gõ 1 câu, AI dựng nguyên cái video 🎬 OpenMontage — biến Claude Code
 Repo: calesthio/OpenMontage
 
 #aidev #aidevrepo #openmontage #aivideo #opensource
+## Chuyển nhiều thứ sang md
+https://github.com/microsoft/markitdown
+
+MarkItDown currently supports the conversion from:
+
+PDF
+PowerPoint
+Word
+Excel
+Images (EXIF metadata and OCR)
+Audio (EXIF metadata and speech transcription)
+HTML
+Text-based formats (CSV, JSON, XML)
+ZIP files (iterates over contents)
+YouTube URLs
+EPubs
+... and more!
+
 
 
 
