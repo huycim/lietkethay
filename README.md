@@ -136,6 +136,20 @@ EPubs
 
 https://github.com/tw93/pake
 
+## Công cụ OCR sách, tài liệu cũ, chữ mờ cho tiếng Việt
+Chào ace, mình mới phát triển công cụ OCR dựa trên Gemini, hướng đến việc OCR các tài liệu cũ, khó đọc do tình trạng sách hoặc do cách scan.
+Link trên AI Studio: https://aistudio.google.com/apps/513da822-939a-4929-ac44-2e0e86309b06?showPreview=true&showAssistant=true&fullscreenApplet=true
+Định dạng đầu vào: PDF, giới hạn 100 MB / 500 trang;
+Đầu ra: Mặc định là định dạng web, bảo toàn bố cục khá tốt (phục vụ cho việc đọc) hoặc .docx với bố cục tối giản (cho mục đích chỉnh sửa lại);
+Bản OCR, mọi người có thể đọc ngay trên ứng dụng hoặc tải về lưu trữ lâu dài;
+Bên cạnh Gemini, ace có thể dùng Meta AI. Tuy nhiên vẫn nên ưu tiên Gemini hơn vì chất lượng OCR của nó rất tốt. Ngoài ra, trên AI Studio thì có cấp miễn phí tương đối rộng nên không tốn kém.
+-
+So sánh với các công cụ OCR phổ biến & mạnh khác như PaddleOCR hoặc MinerU, thì khả năng OCR tiếng Việt chữ mờ của Gemini vượt trội hơn đáng kể, hiếm khi bị lỗi chính tả.
+-
+ACE có thể remix và vibe coding chỉnh sửa thêm công cụ theo ý mình nếu muốn.
+-
+ACE dùng có góp ý gì, xin cứ thoải mái.
+
 
 
 
