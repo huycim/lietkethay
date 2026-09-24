@@ -22,6 +22,11 @@ Hãy tìm thứ gì đó tốt hơn Claude, ví dụ như hầu hết các thư 
 
 ## Vietnamese TTS khá ổn
 
+## https://pennydinh.click/products
+Bộ Kho Công Cụ liên quan đến tạo video... miễn phí có cả lồng tiếng
+
+
+
 ttps://huggingface.co/spaces/pnnbao-ump/VieNeu-TTS-v3-Turbo
 
 ## tất cả trong 1 cho php
